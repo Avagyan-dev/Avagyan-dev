@@ -22,7 +22,7 @@ I am a 2nd-year Computer Science student at Yerevan State University, passionate
 ### 📄 Professional Info
 - 🎓 **Education:** 2nd Year Student at YSU (Faculty of Informatics and Applied Mathematics)
 - 💼 **Looking for:** C++ Intern / Junior Developer roles
-- 📄 **My Resume:** (./Tigran_Avagyan_Resume.pdf)
+- 📄 **My Resume:** [Download PDF](./Tigran_Avagyan_Resume.pdf)
 - 📧 **Connect:** tigranavagyan050@gmail.com
 - 📞 **Phone:** +374 97 227517
 
